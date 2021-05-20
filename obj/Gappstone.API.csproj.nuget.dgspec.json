@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SheraThoz\\Desktop\\Gappstone.API\\Gappstone.API.csproj": {}
+    "C:\\Users\\SheraThoz\\Documents\\UPC\\2021 - 1\\Evolucion del software\\Gappstone.API\\Gappstone-API\\Gappstone.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SheraThoz\\Desktop\\Gappstone.API\\Gappstone.API.csproj": {
+    "C:\\Users\\SheraThoz\\Documents\\UPC\\2021 - 1\\Evolucion del software\\Gappstone.API\\Gappstone-API\\Gappstone.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SheraThoz\\Desktop\\Gappstone.API\\Gappstone.API.csproj",
+        "projectUniqueName": "C:\\Users\\SheraThoz\\Documents\\UPC\\2021 - 1\\Evolucion del software\\Gappstone.API\\Gappstone-API\\Gappstone.API.csproj",
         "projectName": "Gappstone.API",
-        "projectPath": "C:\\Users\\SheraThoz\\Desktop\\Gappstone.API\\Gappstone.API.csproj",
+        "projectPath": "C:\\Users\\SheraThoz\\Documents\\UPC\\2021 - 1\\Evolucion del software\\Gappstone.API\\Gappstone-API\\Gappstone.API.csproj",
         "packagesPath": "C:\\Users\\SheraThoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SheraThoz\\Desktop\\Gappstone.API\\obj\\",
+        "outputPath": "C:\\Users\\SheraThoz\\Documents\\UPC\\2021 - 1\\Evolucion del software\\Gappstone.API\\Gappstone-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SheraThoz\\AppData\\Roaming\\NuGet\\NuGet.Config",

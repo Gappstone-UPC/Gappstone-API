@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2og/pKpCeOOMcBNBPkM7PteN98zwue9rt8PU79WXVsXKEVVeUPIDgoqTTo6CXA9OH7TowzqLtcj95W+gtKg5bQ==",
+  "dgSpecHash": "S8rK9IEA2ma+mfGKY2EAhq9pu+6HAysvaIeQTJWwdBk+z5UGej81v7NWbyzUrwWZgthBAgHiS52RfM8+yQrFrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SheraThoz\\Desktop\\Gappstone.API\\Gappstone.API.csproj",
+  "projectFilePath": "C:\\Users\\SheraThoz\\Documents\\UPC\\2021 - 1\\Evolucion del software\\Gappstone.API\\Gappstone-API\\Gappstone.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SheraThoz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\SheraThoz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

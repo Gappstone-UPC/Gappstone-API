@@ -7,13 +7,13 @@ using Gappstone.API.Domain.Models;
 
 namespace Gappstone.API.Domain.Services.Communications
 {
-    public class CountryRespons : BaseResponse<Country>
+    public class CountryResponse : BaseResponse<Country>
     {
-        public CountryRespons(Country resource) : base(resource)
+        public CountryResponse(Country resource) : base(resource)
         {
         }
 
-        public CountryRespons(string message) : base(message)
+        public CountryResponse(string message) : base(message)
         {
         }
     }
