@@ -12,7 +12,8 @@ namespace Gappstone.API.Domain.Models
         public User User { get; set; }
         public int UniversityId { get; set; }
         public University University { get; set; }
+        public int CareerId { get; set; }
+        public Career Career { get; set; }
         public string UniversityStudentCode { get; set; }
-
     }
 }

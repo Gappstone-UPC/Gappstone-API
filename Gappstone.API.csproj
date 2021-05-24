@@ -14,9 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Domain\Persistence\Repositories\" />
     <Folder Include="Domain\Repositories\" />
-    <Folder Include="Domain\Persistence\" />
-    <Folder Include="Extensions\" />
     <Folder Include="Mapping\" />
     <Folder Include="Services\" />
     <Folder Include="Resources\" />

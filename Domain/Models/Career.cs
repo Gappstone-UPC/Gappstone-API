@@ -10,5 +10,6 @@ namespace Gappstone.API.Domain.Models
         public int CareerId { get; set; }
         public string CarrerName { get; set; }
         public List<User> Users { get; set; }
+        public List<UserCareer> UserCareers { get; set; }
     }
 }
