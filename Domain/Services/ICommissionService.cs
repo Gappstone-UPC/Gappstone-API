@@ -18,5 +18,8 @@ namespace Gappstone.API.Domain.Services
         Task<CommissionResponse> UpdateAsync(int id, Commission commission);
         Task<CommissionResponse> DeleteAsync(int id);
 
+        Task<CommissionResponse> AssignCommission(int tutorshipId, int billId);
+        Task<CommissionResponse> UnassignCommission(int tutorshipId, int billId);
+
     }
 }

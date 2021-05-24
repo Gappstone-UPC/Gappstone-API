@@ -18,5 +18,8 @@ namespace Gappstone.API.Domain.Services
         Task<UserCareerResponse> SaveAsync(UserCareer userCareer);
         Task<UserCareerResponse> UpdateAsync(int id, UserCareer userCareer);
         Task<UserCareerResponse> DeleteAsync(int id);
+
+        Task<UserCareerResponse> AssingUserCareer(int userId, int careerId, int universityId);
+        Task<UserCareerResponse> UnassingUserCareer(int userId, int careerId, int universityId);
     }
 }

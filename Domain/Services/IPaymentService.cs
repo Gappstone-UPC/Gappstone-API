@@ -17,5 +17,8 @@ namespace Gappstone.API.Domain.Services
         Task<PaymentResponse> SaveAsync(Payment payment);
         Task<PaymentResponse> UpdateAsync(int id, Payment payment );
         Task<PaymentResponse> DeleteAsync(int id);
+
+        Task<PaymentResponse> AssingPayment(int tutorId, int billId);
+        Task<PaymentResponse> UnassingPayment(int tutorId, int billId);
     }
 }
