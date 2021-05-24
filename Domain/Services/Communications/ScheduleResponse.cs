@@ -7,13 +7,13 @@ using Gappstone.API.Domain.Models;
 
 namespace Gappstone.API.Domain.Services.Communications
 {
-    public class Schedule : BaseResponse<Schedule>
+    public class ScheduleResponse : BaseResponse<ScheduleResponse>
     {
-        public Schedule(Schedule resource) : base(resource)
+        public ScheduleResponse(ScheduleResponse resource) : base(resource)
         {
         }
 
-        public Schedule(string message) : base(message)
+        public ScheduleResponse(string message) : base(message)
         {
         }
     }
