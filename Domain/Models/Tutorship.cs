@@ -19,5 +19,7 @@ namespace Gappstone.API.Domain.Models
         public DateTime Date { get; set; }
         public int Duration { get; set; }
         public decimal Cost { get; set; }
+        public int CommissionId { get; set; }
+        public Commission Commission { get; set; }
     }
 }

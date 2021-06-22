@@ -10,5 +10,7 @@ namespace Gappstone.API.Domain.Models
         public int ScheludeId { get; set; }
         public int TutorId { get; set; }
         public Tutor Tutor { get; set; }
+
+        public List<Tutorship> Tutorships { get; set; }
     }
 }

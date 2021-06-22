@@ -17,5 +17,8 @@ namespace Gappstone.API.Domain.Models
         public Country Country { get; set; }
         public List<UserCareer> UserCareers { get; set; }
 
+        public Student Student { get; set; }
+        public Tutor Tutor { get; set; }
+
     }
 }

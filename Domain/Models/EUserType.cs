@@ -12,6 +12,6 @@ namespace Gappstone.API.Domain.Models
         [Description("Student")]
         Student = 0,
         [Description("Tutor")]
-        Tutor = 1
+        Tutor = 1,
     }
 }

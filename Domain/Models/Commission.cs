@@ -12,6 +12,8 @@ namespace Gappstone.API.Domain.Models
         public Tutor Tutor { get; set; }
         public int BillId { get; set; }
         public Bill Bill { get; set; }
+        public int TutorshipId { get; set; }
+        public Tutorship Tutorship { get; set; }
         public decimal Amount { get; set; }
     }
 }
