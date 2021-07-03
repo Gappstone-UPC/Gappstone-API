@@ -17,6 +17,8 @@ namespace Gappstone.API.Domain.Models
         public int PaymentId { get; set; }
         public Payment Payment { get; set; }
         public List<Commission> Commissions { get; set; }
+        public int TutorId { get; set; }
+        public Tutor Tutor { get; set; }
 
     }
 }

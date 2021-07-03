@@ -251,6 +251,7 @@ namespace Gappstone.API.Domain.Persistence.Context
 
                 //Relationships
                 builder.Entity<Bill>().HasOne(bl => bl.Payment).WithOne(py => py.Bill).HasForeignKey<Bill>(bl => bl.PaymentId);
+                builder.Entity<Bill>().HasOne(bl => bl.Tutor).WithMany(tt => tt.Bills).HasForeignKey(bl => bl.TutorId);
 
         }
     }

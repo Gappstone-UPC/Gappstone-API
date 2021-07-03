@@ -17,5 +17,7 @@ namespace Gappstone.API.Domain.Models
         public User User { get; set; }
         public Schedule Schedule { get; set; }
         public List<Tutorship> Tutorships { get; set; }
+        public List<Bill> Bills { get; set; }
+
     }
 }
